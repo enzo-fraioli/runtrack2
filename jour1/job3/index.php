@@ -11,9 +11,9 @@ $float=6.9;
 <table>
     <thead>
         <tr>
-            <th>type</th>
             <th>nom</th>
-            <th>effet</th>
+            <th>valeur</th>
+            <th>type</th>
         </tr>
     </thead>
     <tbody>
